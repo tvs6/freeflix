@@ -33,8 +33,8 @@ box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    margin-right: 35%;
-    margin-left: 35%;
+    margin-right: 37%;
+    margin-left: 37%;
 }
 
 .container, .container-md, .container-sm {
